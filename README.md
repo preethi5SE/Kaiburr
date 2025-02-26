@@ -124,7 +124,7 @@ Steps to Run
 
 Clone the repository:
 
-git clone https://github.com/your-repo/task-manager-api.git
+git clone https://github.com/preethi5SE/Kaiburr.git
 cd task-manager-api
 
 Build and run the application:
